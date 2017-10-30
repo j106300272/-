@@ -1,0 +1,51 @@
+td{
+    color : red;
+    
+}
+
+#w li {
+    color: rgb(0, 255, 34);
+}
+
+#w a{
+    color: blue;
+}
+
+#solution {
+    color: white;
+    background-color: black;
+}
+
+#w{
+    background-color: rgb(187, 187, 167);
+    width: 500px;
+    height: 670px;
+    border: 2px solid rgb(32, 2, 167);
+    padding:10px;
+    margin: 10px;
+}
+
+#w1{background-color: rgb(187, 187, 167);
+    width: 500px;
+    height: 150px;
+    border: 2px solid rgb(32, 2, 167);
+    padding:10px;
+    margin: 10px;
+
+}
+#w2{background-color: rgb(187, 187, 167);
+    width: 500px;
+    height: 50px;
+    border: 2px solid rgb(32, 2, 167);
+    padding:10px;
+    margin: 10px;
+
+}
+#w3{background-color: rgb(187, 187, 167);
+    width: 500px;
+    height: 30px;
+    border: 2px solid rgb(32, 2, 167);
+    padding:10px;
+    margin: 10px;
+
+}
